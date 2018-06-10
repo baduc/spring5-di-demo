@@ -1,0 +1,39 @@
+# This is comment
+
+name: Bidi
+
+names:
+  - Duc
+  - DucNB
+  - DucNB1
+  
+pound_sign: "#"
+
+book:
+  author: Author
+  publisher: random house
+  
+truth: yes
+
+another_truth: True
+
+more_truth: true
+
+false: no
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  dasdas
+  dadasgasd fasdasg afas
+  gasd gadasd
+  
+ignore_new_line: >
+  this is 
+  just one long
+  string
+  
+  
+
